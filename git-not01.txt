@@ -1,0 +1,11 @@
+Git notları-01
+
+1-source ctrl(branch iconu)
+2-add repositoryu tıkla
+3-view commant platte tıkla
+4-git add remote tıkla
+5-url yapıştır
+6-remote da repo ismi gir
+7-commit mesajı gir tıkla
+8-3 noktadan pushla
+9-olası hata durumunda ilgili klasörde ki git eklentisini sil baştan al
